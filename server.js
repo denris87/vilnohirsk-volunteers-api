@@ -7,7 +7,7 @@ app.use(cors());
 
 // УВАГА: Замініть це посилання на "Raw" посилання вашого файлу volunteers.yaml з GitHub
 // Воно виглядає приблизно так: https://raw.githubusercontent.com/ВАШ_НІК/ВАШ_РЕПОЗИТОРІЙ/main/volunteers.yaml
-const YAML_URL = 'https://raw.githubusercontent.com/YOUR_GITHUB_NAME/vilnohirsk-volunteers-api/main/volunteers.yaml';
+const YAML_URL = 'https://raw.githubusercontent.com/denris87/vilnohirsk-volunteers-api/main/volunteers.yaml';
 
 app.get('/api/volunteers', async (req, res) => {
     try {

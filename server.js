@@ -5,13 +5,13 @@ const yaml = require('js-yaml');
 const app = express();
 app.use(cors());
 
-// УВАГА: Замініть це посилання на "Raw" посилання вашого файлу volunteers.yaml з GitHub
-// Воно виглядає приблизно так: https://raw.githubusercontent.com/ВАШ_НІК/ВАШ_РЕПОЗИТОРІЙ/main/volunteers.yaml
+// ⚠️ ВАЖНО: Замените 'denris87' на ваш реальный ник в GitHub, если он другой!
+// Убедитесь, что ссылка открывает именно сырой (Raw) текст вашего volunteers.yaml
 const YAML_URL = 'https://raw.githubusercontent.com/denris87/vilnohirsk-volunteers-api/main/volunteers.yaml';
 
 app.get('/api/volunteers', async (req, res) => {
     try {
-        // Додаємо ?t=date щоб скинути кеш GitHub
+        // Добавляем ?t=date чтобы сбросить кэш GitHub и получать данные мгновенно
         const response = await fetch(YAML_URL + '?t=' + Date.now());
         if (!response.ok) throw new Error('Не вдалося завантажити YAML з GitHub');
         

@@ -1,6 +1,6 @@
 volunteers:
-  - title: "Збираємо кошти на матеріали для пошиття м'яких нош, необхідних для евакуації поранених на передовій."
-    description: |
+  - title: "Збір на матеріали для м'яких нош 🚑"
+    description: "Збираємо кошти на матеріали для пошиття м'яких нош, які критично необхідні для евакуації поранених на передовій. Кожна гривня рятує життя!"
     jar_url: "https://send.monobank.ua/jar/3r8yihM2rM"
     card_number: "4874 1000 2577 1059"
     goal: 12000
@@ -12,4 +12,6 @@ volunteers:
     description: "Збираємо на дрон з тепловізором для розвідки на Донецькому напрямку."
     jar_url: "https://send.monobank.ua/jar/ANOTHER_JAR_ID"
     card_number: "4149 4993 0000 0000"
+    goal: 0
+    collected: 0
     active: false

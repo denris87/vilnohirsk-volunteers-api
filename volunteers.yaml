@@ -4,7 +4,7 @@ volunteers:
     jar_url: "https://send.monobank.ua/jar/3r8yihM2rM"
     card_number: "4874 1000 2577 1059"
     goal: 12000
-    collected: 5250
+    collected: 6250
     active: true
 
   # Приклад ще одного збору (якщо він не потрібен, просто видаліть цей блок або напишіть active: false)

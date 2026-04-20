@@ -4,8 +4,8 @@ volunteers:
     jar_url: "https://send.monobank.ua/jar/3r8yihM2rM"
     card_number: "4874 1000 2577 1059"
     goal: 12000
-    collected: 7350
-    active: true
+    collected: 12000
+    active: false
 
   # Приклад ще одного збору (якщо він не потрібен, просто видаліть цей блок або напишіть active: false)
   - title: "ЗБІР НА МАВІК 3T"

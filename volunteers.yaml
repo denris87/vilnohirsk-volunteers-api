@@ -3,8 +3,8 @@ volunteers:
     description: "Волонтерський центр Вільногірська просить допомогти закрити важливий збір для військових"
     jar_url: "https://send.monobank.ua/jar/3apWF2sNFa"
     card_number: "4874 1000 2846 2326"
-    goal: 4648,96
-    collected: 35000
+    goal: 35000
+    collected: 4648
     active: true
 
   # Приклад ще одного збору (якщо він не потрібен, просто видаліть цей блок або напишіть active: false)

@@ -4,7 +4,7 @@ volunteers:
     jar_url: "https://send.monobank.ua/jar/3apWF2sNFa"
     card_number: "4874 1000 2846 2326"
     goal: 35000
-    collected: 5833
+    collected: 5933
     active: true
 
   # Приклад ще одного збору (якщо він не потрібен, просто видаліть цей блок або напишіть active: false)
@@ -13,5 +13,5 @@ volunteers:
     jar_url: "https://send.monobank.ua/jar/9Cj9mWHuTq"
     card_number: "4874 1000 3819 1626"
     goal: 25490
-    collected: 800
+    collected: 900
     active: true

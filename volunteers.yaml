@@ -15,3 +15,11 @@ volunteers:
     goal: 25490
     collected: 7770
     active: true
+
+  - title: "На ремонт авто"
+    description: "Хлопці збирають на ремонт 3-х автівок для 253-го окремого штурмового полку Арей, роти протидії екіпажам безпілотних літальних апаратів"
+    jar_url: "https://send.monobank.ua/jar/5mxKLUTaMv"
+    card_number: "4874 1000 3930 8294"
+    goal: 75000
+    collected: 40019
+    active: true

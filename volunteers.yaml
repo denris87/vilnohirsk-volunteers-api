@@ -5,7 +5,7 @@ volunteers:
     card_number: "4874 1000 3930 8294"
     goal: 75000
     collected: 73597
-    active: true
+    active: false
 
   - title: "Збір на ЧУЙКА 3.0 - 2 шт"
     description: "Волонтерський центр Вільногірська просить допомогти закрити важливий збір для військових"

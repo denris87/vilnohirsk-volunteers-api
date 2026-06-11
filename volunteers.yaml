@@ -4,7 +4,7 @@ volunteers:
     jar_url: "https://send.monobank.ua/jar/4VmG65DW48"
     card_number: "4874 1000 3893 3936"
     goal: 31000
-    collected: 4970
+    collected: 5585
     active: true
 
   - title: "На ремонт лафета 59 бр."
@@ -12,7 +12,7 @@ volunteers:
     jar_url: "https://next.privat24.ua/send/j9q9p"
     card_number: "UA813052990262096401007614489"
     goal: 25000
-    collected: 15000
+    collected: 15200
     active: true
 
   # Приклад ще одного збору (якщо він не потрібен, просто видаліть цей блок або напишіть active: false)

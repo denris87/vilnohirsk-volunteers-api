@@ -5,7 +5,7 @@ volunteers:
     card_number: "4874 1000 3893 3936"
     goal: 31000
     collected: 7585
-    active: true
+    active: false
 
   - title: "На ремонт лафета 59 бр."
     description: "Збір для Сверготского Андрія. Лафет, який щодня рятує пошкоджені автівки наших Захисників, вийшов з ладу."
@@ -13,7 +13,7 @@ volunteers:
     card_number: "UA813052990262096401007614489"
     goal: 25000
     collected: 15400
-    active: true
+    active: false
 
   # Приклад ще одного збору (якщо він не потрібен, просто видаліть цей блок або напишіть active: false)
   - title: "На Бронежилет"
@@ -22,6 +22,6 @@ volunteers:
     card_number: "4874 1000 3819 1626"
     goal: 25490
     collected: 8720
-    active: true
+    active: false
 
   
